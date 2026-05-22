@@ -1,5 +1,9 @@
 8 tracks · ~13 minutes.
 
+Track one available here: https://soundcloud.com/jongerhardson/experimental_rap-2 
+
+I like JPEGMAFIA this is just me taking a stupid joke too far. 
+
 ## Quick start
 
 ```bash
