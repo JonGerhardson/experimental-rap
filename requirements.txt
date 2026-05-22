@@ -1,0 +1,10 @@
+# WOULD THAT COUNT? — python deps for building the album (python album.py)
+# Also needs the `ffmpeg` binary on PATH (system package, not pip-installable).
+
+numpy>=2.2          # synthesis + dsp
+scipy>=1.15         # filters, resampling, wav io
+yt-dlp>=2026.3      # downloads the David Antin source recordings
+
+# Optional — only to regenerate trans_*.txt transcripts from the source audio
+# (the repo already ships the transcripts, so this is not required to build):
+# faster-whisper>=1.2
