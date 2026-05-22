@@ -2,7 +2,9 @@
 
 Track one available here: https://soundcloud.com/jongerhardson/experimental_rap-2 
 
-I like JPEGMAFIA this is just me taking a stupid joke too far. 
+I like JPEGMAFIA this is just me taking a stupid joke too far. A python scripts generates some beats and uses yt-dlp to download audio from talks given by the "experimental" artist/poet/critic David Antin, samples the talks, and mixes it all together. 
+
+License: CC0 only becvause CC negative infinity does not exist. 
 
 ## Quick start
 
