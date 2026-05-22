@@ -7,6 +7,10 @@ pip install -r requirements.txt     # numpy, scipy, yt-dlp  (+ ffmpeg on PATH)
 python album.py                     # downloads sources, builds & masters all 8 MP3s
 ```
 
+**note** ffmpeg is needed on PATH (system binary, not pip), and you also need [faster-whisper](https://github.com/SYSTRAN/faster-whisper) if you want to make full transcripts to fuck around with what gets sampled.
+
+
+
 Output: `01 - would that count.mp3` … `08 - it is narrow it is dark.mp3`
 (320 kbps, loudness-normalized to −14 LUFS, tagged).
 
